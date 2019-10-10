@@ -1,5 +1,7 @@
 # LSTM_for_cryptocurrency_predictions
-Exploration of predicting cryptocurrecy's up and down on the next period using LSTM model.
+Exploration of predicting cryptocurrecy's up and down on the next period using LSTM model using Python.
+
+requirements.txt: list of required packages.
 
 model_on_different_datasets.py (main file):
            This file calls LSTM.py in LSTM_categorical (LSTM model results). 
