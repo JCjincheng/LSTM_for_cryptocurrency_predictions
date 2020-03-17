@@ -1,4 +1,4 @@
-# LSTM_for_cryptocurrency_predictions
+# Random
 Exploration of predicting cryptocurrecy's up and down on the next period using LSTM model using Python.
 
 requirements.txt: list of required packages.
