@@ -1,5 +1,5 @@
-# Random
-Exploration of predicting cryptocurrecy's up and down on the next period using LSTM model using Python.
+# LSTM model on predicting cryptocurrency
+Exploration of predicting cryptocurrency's up and down on the next period using LSTM model using Python.
 
 requirements.txt: list of required packages.
 
